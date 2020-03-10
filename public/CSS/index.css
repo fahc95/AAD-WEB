@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
+
+header {
+    border-bottom: 1px solid;
+    border-radius: 1.5rem;
+    border-color: aqua;
+}
+
+
+.navbar {
+    padding: 0px !important;
+}
+
+.nav-item {
+    font-size: xx-large;
+    margin-right: 3rem;
+}
+
+.navbar-nav > a:hover {
+    border-bottom: solid 2px #0042a2;
+}
+
+.btn-nav {
+    font-size: x-large;
+ }
+
+.active {     
+    border-top: 1px solid;
+    border-color: rgb(0, 218, 210);
+}
+
+.logo {
+    max-width: 140px;
+    max-height: 120px;
+    padding: 3px;
+}
+
+.main-container {
+    margin-top: 123px;
+    background-color: rgb(0, 218, 210);
+}
+
+#bannerImg {
+    padding: 0 !important;
+    border: 1px solid #0042a2;
+    max-height: 300px;
+    max-width: 90%;
+    text-align: center;
+}
+
+.infoBlockTitle {
+    color: #0042a2;
+}
+
+#infoImg {
+    padding: 0 !important;
+    border: 1px solid rgb(0, 218, 210);
+    max-height: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.text-Merriweather-large, footer {
+    font-family: 'Merriweather', serif;
+    font-size: large;
+}
+
+.text-blue {
+    color: #0042a2;
+}
+ .text-Archivo {
+    font-family: 'Archivo Black', sans-serif;
+ }
+
+.suscribe-form{
+    font-family: 'Merriweather', serif;
+    border-radius: 1.5rem;
+    color: #0042a2;
+}
+
+div > span {
+    font-size: x-small;
+}
+
+.form-group > input{
+   border-top: 0;
+   border-radius: 0.2;
+   border-bottom: 1px solid ;
+   border-left: 0;
+   border-right: 0;
+   background-color: transparent;
+} 
+
+.form-group > input:focus{
+  background-color: transparent;
+  border-bottom: 1px solid #0042a2;
+  box-shadow: none !important;
+}
+
+#controlSelectGender {
+    border-bottom: 1px solid black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+

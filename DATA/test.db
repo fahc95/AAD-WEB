@@ -1,0 +1,7 @@
+{"nombre":"Carlos","apellido":"Perez","email":"carlos@hola.com","telefono":"65776873","edad":"18","genero":"M","tienePC":true,"timeStamp":{"$$date":1582590196875},"_id":"1xhf8hbZqn7xfJRN"}
+{"nombre":"Sonia","apellido":"Castro","email":"sonia@gmail.com","telefono":"88557001","edad":"37","genero":"Femenino","tienePC":true,"timeStamp":{"$$date":1582596200502},"_id":"KFmuJY5Y0vBd9Oax"}
+{"nombre":"Freddy","apellido":"Hernández","email":"fahc95@gmail.com","telefono":"85182242","edad":"24","genero":"M","tienePC":true,"timeStamp":{"$$date":1582592470877},"_id":"MbmWt7iqA1VhHVBk"}
+{"nombre":"Alexander ","apellido":"Evertsz","email":"alex@hola.com","telefono":"88551324","edad":"25","genero":"Masculino","tienePC":true,"timeStamp":{"$$date":1582603785317},"_id":"Y9oAJcM0fyMU65SZ"}
+{"nombre":"Kevin","apellido":"Moreira","email":"kevin@test.com","telefono":"88996634","edad":"25","genero":"M","tienePC":true,"timeStamp":{"$$date":1582592098587},"_id":"gX8VXIMwMdOUV8Zk"}
+{"nombre":"Freddy","apellido":"Hernandez","email":"fahc85@gmail.com","telefono":"76877687","edad":"24","genero":"M","tienePC":true,"timeStamp":{"$$date":1582580749559},"_id":"jukxNi6lDcVjdr2a"}
+{"nombre":"Cristiana ","apellido":"Montenegro ","email":"cris_montengro@gmail.com","telefono":"88651234","edad":"24","genero":"Masculino","tienePC":false,"timeStamp":{"$$date":1582593671275},"_id":"ltoVHjHlKmKsmxFX"}

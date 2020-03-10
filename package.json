@@ -1,0 +1,22 @@
+{
+  "name": "aad-web",
+  "version": "1.0.0",
+  "description": "This a beta version of Crea Tu musica Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "production",
+    "class"
+  ],
+  "author": "Freddy Hz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.2",
+    "npm-watch": "^0.6.0"
+  }
+}
